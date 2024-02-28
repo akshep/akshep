@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshep&label=Profile%20views&color=0e75b6&style=flat" alt="akshep" /> </p>
 
-- 🔭 I’m currently working on **ACUTE EYEWEAR WEBSITE DEVELOPER**
+- 🔭 I’m currently working on **javaTpoint**
 
-- 🌱 I’m currently learning **C,JAVASCRIPT**
+- 🌱 I’m currently learning **React.Js , Node.js**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS, Javascript**
 
 - 📫 How to reach me **akshepkietmca@gmail.com**
 
